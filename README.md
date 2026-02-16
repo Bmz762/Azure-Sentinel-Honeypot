@@ -1,4 +1,6 @@
 # Azure-Sentinel-Honeypot
+<img width="1731" height="738" alt="honey_pot_HeatMap_v2" src="https://github.com/user-attachments/assets/0d56f0ee-8df5-4dd9-92c4-7b7e44d91442" />
+
 Real time RDP attack visualization project with Azure Sentinel and KQL
 # Project Implementation Steps
 1. Environment Setup (Azure VM)
