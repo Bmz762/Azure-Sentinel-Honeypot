@@ -17,7 +17,6 @@ Security Concepts: Threat Detection, Log Analysis, Brute-Force Monitoring
 
 Total Number of Attacks : 2288
 Top 3 Attacking Countries: Kyrgyzstan - 212.42.122.66, China - 120.211.171.91, and France - 194.3.181.177
-Real time RDP attack visualization project with Azure Sentinel and KQL
 # Project Implementation Steps
 1. Environment Setup (Azure VM)
 Provisioning: Created a Windows 10 Virtual Machine in Azure.
